@@ -63,7 +63,7 @@ Gem::Specification.new do |s|
      "test/units/postgres_file_writer_test.rb"
   ]
 
-  s.add_dependency(%q<mysql-pr>, [">= 2.9.10"])
+  s.add_dependency(%q<mysql-pr>, [">= 2.9.11"])
   s.add_dependency(%q<postgres-pr>, ["= 0.6.3"])
   s.add_dependency(%q<activerecord>, [">= 3.2.6"])
   s.add_dependency(%q<test-unit>, [">= 2.1.1"])
